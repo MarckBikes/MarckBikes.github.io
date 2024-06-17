@@ -4,39 +4,55 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 1. What is Marck Bikes all about?
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+Marck Bikes is your one-stop shop for everything cycling.  We're passionate
+about keeping the joy of cycling alive and offer a wide range of bikes to
+suit all ages and styles.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 2. Why Choose Marck Bikes?
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+We craft beautiful bikes that deliver incredible rides for all riders with
+different taste, like different models for sleek and fast for a graceful
+ride, perfect for exploring any path, cutting-edge design for peak
+performance, conquer tough terrain with confidence.
 
-## 2. WHAT ARE THE POSTAL RATES?
+## 3. Do you provide accessories as well?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+We offer a variety of cycling accessories to make your journey comfortable,
+safe, and stylish.  Find everything from helmets to bike bags.
 
-## 3. DO YOU SEND OVERSEAS?
+## 4. Can I get a customised dream bicycle to my preference?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Want a bike built just for you?  We can do that.  Marck Bikes creates custom
+bikes to your exact preferences, ensuring a truly unique ride.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+## 4. Is there a minimum order quantities for Custom bike manufacturing?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+As a large manufacturer, we have minimum order quantities (MOQ) for custom
+bikes.  Contact us to discuss your needs!
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 5. How do I get in touch with Marck Bikes?
 
-## 5. ANOTHER IMPORTANT QUESTION
+We're here to help!  Visit our Contact Us page and our friendly team will
+answer your questions and support you on your cycling journey.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 6. Are Marck Bikes's bicycles affordable?
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+We believe top-notch bikes shouldn't cost a fortune.  Our bicycles are
+designed for the Indian market, offering exceptional value at an accessible
+price.
+
+## 7. Do you care about the environment?
+
+Sustainability matters!  Marck Bikes is committed to a greener planet.  We
+use solar energy, minimize emissions, and operate a low-carbon footprint
+factory.  Additionally, we proudly support the 'Make in India' initiative.
+
+## 8. What about the spare parts for Marck Bikes bicycles?
+
+Keep your rides smooth and worry-free!  Marck Bikes offers high-quality
+spare parts to ensure your cycling experience lasts.
 
 ---
 
